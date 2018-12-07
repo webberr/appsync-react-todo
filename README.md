@@ -1,3 +1,15 @@
+# appsync-react-todo
+Basic React Todo app demo
+
+Following a Hackernoon tutorial I am creating a basic React Todo app to use on another turtoial for testing AWS Appsync to add items to a todo list using Amplify.
+
+https://hackernoon.com/create-a-simple-todo-app-in-react-9bd29054566b
+
+##Getting Started
+npm install create-react-app --global
+
+create-react-app appsync-react-todo
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
